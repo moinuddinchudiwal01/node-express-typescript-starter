@@ -1,0 +1,33 @@
+{
+    "cSpell.words": [
+        "Jewellery",
+        "uuidv"
+    ],
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features",
+        "editor.tabSize": 4
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features",
+        "editor.tabSize": 4
+    },
+    "editor.detectIndentation": false,
+    "editor.snippetSuggestions": "top",
+    "editor.tabSize": 4,
+    "editor.autoIndent": "full",
+    "editor.fontSize": 13,
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "editor.colorDecorators": true,
+    "editor.insertSpaces": true,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 140,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "false",
+        "source.organizeImports": "false"
+    },
+    "files.trimFinalNewlines": true
+}
